@@ -12,9 +12,7 @@ Installation
 4. run: `$ make`
 5. Update the `package.json` file with the correct information for the new project. Also update the git repo: `git remote set-url origin git@github.com:user/project.git`
 
-## Changelog ##
+# Changelog #
 
-Version 1.0.0 - December 30th
-=============================
-
+## Version 1.0.0 - December 30th ##
 * First Version
