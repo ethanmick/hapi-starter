@@ -1,0 +1,35 @@
+{
+  "name": "HapiStarter",
+  "version": "1.0.0",
+  "description": "Project Description Goes Here",
+  "main": "coffee_bridge.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pathtoyour/directory.git"
+  },
+  "author": "Author Name",
+  "license": "LICENSE",
+  "config": {
+    "blanket": {
+      "pattern": "//server.coffee|/lib/",
+      "shortnames": true,
+      "data-cover-reporter-options": {
+        "shortnames": true
+      },
+      "data-cover-never": "node_modules",
+      "loader": "./node-loaders/coffee-script"
+    }
+  },
+  "dependencies": {
+    "coffee-script": "1.8.0",
+    "hapi": "8.0.0",
+    "q": "1.0.1"
+  },
+  "devDependencies": {
+    "blanket": "1.1.6",
+    "chai": "1.9.1",
+    "mocha": "2.0.1",
+    "sinon": "1.10.3",
+    "supertest": "0.10.0"
+  }
+}
