@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "coffee-script": "1.8.0",
-    "hapi": "8.0.0",
+    "hapi": "8.1.0",
     "q": "1.0.1"
   },
   "devDependencies": {
