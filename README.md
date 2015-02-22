@@ -3,9 +3,9 @@ Hapi Starter
 
 A template for creating a Node.js application using Hapi in CoffeeScript.
 
-[Hapi](https://github.com/hapijs/hapi)
-[Hapi Documentation](http://hapijs.com/api)
-[Coffee Script](http://coffeescript.org/)
+* [Hapi](https://github.com/hapijs/hapi)
+* [Hapi Documentation](http://hapijs.com/api)
+* [Coffee Script](http://coffeescript.org/)
 
 Installation
 ============
