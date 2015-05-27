@@ -18,5 +18,14 @@ Installation
 
 # Changelog #
 
-## Version 1.0.0 - December 30th ##
+## Version 1.1.0 - May 27th, 2015 ##
+* Moved server to it's own class
+* Created a new init script that starts the server
+* coffee_bridge points to new init script
+* Changed tests to just be integration tests with Hapi's inject method
+* Simplified code
+* Added code coverage
+* Added linting
+
+## Version 1.0.0 - December 30th, 2014 ##
 * First Version
