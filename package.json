@@ -1,8 +1,11 @@
 {
   "name": "HapiStarter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Project Description Goes Here",
   "main": "coffee_bridge.js",
+  "scripts": {
+    "start": "node coffee_bridge.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/pathtoyour/directory.git"
